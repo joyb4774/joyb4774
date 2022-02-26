@@ -2,6 +2,7 @@
 
 [![Linkedin Badge]()](https://www.linkedin.com/in/priya-balachandran-b23b40170/)
 [![Linkedin Badge](https://img.shields.io/badge/-Priya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priya-balachandran-b23b40170/)](https://www.linkedin.com/in/priya-balachandran-b23b40170/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Priya-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Priya-yellow)](https://stackoverflow.com/users/18314513/priyab)
 
 I'm
