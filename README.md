@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](www.linkedin.com/in/priya-balachandran-b23b40170/)](https://www.linkedin.com/in/priya-balachandran-b23b40170/)
-[![Website Badge](https://www.credly.com/users/priya-b.cb161452/badges)]
+[![Website Badge](https://www.credly.com/users/priya-b.cb161452/badges)](https://www.linkedin.com/in/priya-b.cb161452/badges/)
 [![Website Badge](https://stackoverflow.com/users/18314513/priyab)]
 
 I'm
